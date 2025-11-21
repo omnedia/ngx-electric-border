@@ -1,0 +1,25 @@
+{
+  "name": "@omnedia/ngx-electric-border",
+  "description": "An angular component library to create an animated electric border.",
+  "version": "4.0.0",
+  "peerDependencies": {
+    "@angular/common": "21.0.0",
+    "@angular/core": "21.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "keywords": [
+    "npm",
+    "effect",
+    "electric",
+    "border",
+    "animation"
+  ],
+  "repository": {
+    "url": "https://github.com/omnedia/ngx-electric-border"
+  },
+  "author": "Markus Block (markus.block@omnedia.com)",
+  "license": "MIT"
+}
